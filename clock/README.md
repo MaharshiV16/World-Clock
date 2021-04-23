@@ -1,16 +1,6 @@
-# clock
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A basic world clock based on flutter.
+The application runs smoothly on emulator as well as numorous android devices.
+These are the folowing screenshots of the application.
+![ScreenShot](https://res.cloudinary.com/dhwqn0tkh/image/upload/v1619185056/Github/Screenshot_1619184694_lbsxxu.png)
+![ScreenShot](https://res.cloudinary.com/dhwqn0tkh/image/upload/v1619185054/Github/Screenshot_1619184704_fiysxb.png)
+![ScreenShot](https://res.cloudinary.com/dhwqn0tkh/image/upload/v1619185054/Github/Screenshot_1619184699_hpv2qm.png)
